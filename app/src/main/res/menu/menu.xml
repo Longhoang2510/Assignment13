@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/navSach"
+        android:title="Sách"
+        android:icon="@drawable/book"></item>
+
+
+    <item android:id="@+id/navTheloai"
+        android:title="Thể Loại"
+        android:icon="@drawable/theloai"></item>
+
+
+    <item android:id="@+id/navThongke"
+        android:title="Thống Kê"
+        android:icon="@drawable/thongke"></item>
+
+    <item android:id="@+id/navHoadon"
+        android:title="Hóa Đơn"
+        android:icon="@drawable/hoadon"></item>
+
+    <item android:id="@+id/navTaikhoan"
+        android:title="Tài Khoản"
+        android:icon="@drawable/taikhoan"></item>
+
+
+</menu>
